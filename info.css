@@ -1,0 +1,18 @@
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #576574;
+}
+
+h1{
+    text-align: center;
+    color:#ff6b6b; 
+    margin-top: 20px;
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 40px;
+}
